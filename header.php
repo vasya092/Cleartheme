@@ -27,13 +27,9 @@
 
 <div class="site-wrapper">
 
-	<header class="site-header">
-		<div class="wrapper">
-			<?php get_template_part( 'template-parts/branding' ); ?>
-		</div><!-- .wrapper -->
+	<header class="header">
+		<!-- Тут header -->
 	</header><!-- .site-header -->
-
-	<?php get_template_part( 'template-parts/menu-1' ); ?>
 
 	<div class="site-content">
 		<div class="wrapper">

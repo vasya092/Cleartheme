@@ -15,7 +15,7 @@
 		</div><!-- .wrapper -->
 	</div><!-- .site-content -->
 
-	<footer class="site-footer">
+	<footer class="footer">
 	 	<!-- Тут футер -->
 	</footer><!-- .site-footer -->
 
